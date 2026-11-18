@@ -1,0 +1,42 @@
+{
+  "name": "atlas-global-ai-policy-coalition",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Static institutional website for the Atlas Global AI Policy Coalition.",
+  "type": "module",
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "node scripts/build-static.mjs",
+    "start": "tsx server.ts",
+    "preview": "tsx server.ts",
+    "check": "node --check src/app.js && python3 scripts/validate-members.py && python3 scripts/validate-founding-committee.py",
+    "clean": "rm -rf dist",
+    "lint": "tsc --noEmit && node --check src/app.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "lucide-react": "^0.546.0",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "vite": "^8.3.0",
+    "express": "^4.21.2",
+    "dotenv": "^17.2.3",
+    "motion": "^12.23.24"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.4.21",
+    "esbuild": "^0.25.0",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.21.0",
+    "typescript": "^7.0.2",
+    "@types/express": "^4.17.21"
+  }
+}

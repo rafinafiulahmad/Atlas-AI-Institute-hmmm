@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Global South AI Policy Coalition",
+  "description": "An international platform for responsible AI governance, policy research and cooperation, convened by Atlas AI Institute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

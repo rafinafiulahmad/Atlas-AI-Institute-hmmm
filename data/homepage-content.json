@@ -1,0 +1,199 @@
+{
+  "brand": {
+    "name": "Atlas Global South AI Policy Coalition",
+    "line1": "Atlas Global South",
+    "line2": "AI Policy Coalition",
+    "small_line": ""
+  },
+  "hero": {
+    "eyebrow": "ATLAS GLOBAL SOUTH AI POLICY COALITION",
+    "headline": "Advancing Global AI Governance Through International Cooperation",
+    "subtext": "An international network of researchers, legal scholars, policy professionals and institutions across 55 countries, working together for safe, ethical and inclusive artificial intelligence.",
+    "primary_button": "Explore the Coalition",
+    "secondary_button": "Become a Member",
+    "badge": "Official Coalition Portal"
+  },
+  "stats": [
+    {
+      "value": "55",
+      "label": "Member countries"
+    },
+    {
+      "value": "170+",
+      "label": "Researchers and experts"
+    },
+    {
+      "value": "5",
+      "label": "Global regions"
+    },
+    {
+      "value": "6",
+      "label": "Core research tracks"
+    }
+  ],
+  "about": {
+    "label": "ABOUT THE COALITION",
+    "title": "A Global Platform for Responsible AI Governance",
+    "body": "The Atlas Global South AI Policy Coalition connects researchers, legal scholars, policy professionals and institutions to advance inclusive international cooperation on AI governance.",
+    "link": "Learn about the Coalition"
+  },
+  "mission": "To foster inclusive international dialogue, collaborative AI policy research and cross-border governance frameworks that ensure artificial intelligence develops safely, ethically and equitably for global society.",
+  "vision": "A globally coordinated AI ecosystem built on shared accountability, transparency, scientific integrity and human-centered innovation.",
+  "global_reach": {
+    "label": "GLOBAL REACH",
+    "title": "A Network Across Regions",
+    "body": "",
+    "link": "Member Registry",
+    "regions": [
+      "Asia-Pacific",
+      "Europe",
+      "Africa",
+      "The Americas",
+      "MENA"
+    ]
+  },
+  "membership": {
+    "label": "FEATURED MEMBERS",
+    "title": "Meet Our Members",
+    "body": "Meet researchers, professionals and institutional contributors advancing responsible AI governance.",
+    "link": "View All Members"
+  },
+  "member_countries": {
+    "label": "GEOGRAPHIC REPRESENTATION",
+    "title": "Member Countries",
+    "body": "",
+    "link": "Member Countries"
+  },
+  "leadership": {
+    "label": "LEADERSHIP & GOVERNANCE",
+    "title": "Coalition Leadership",
+    "body": "Meet the experts guiding the Coalition's research, partnerships and strategic direction.",
+    "link": "Meet the Founding Committee"
+  },
+  "research_tracks": [
+    {
+      "title": "AI Governance",
+      "description": "Institutional frameworks, oversight mechanisms and accountability structures for AI systems."
+    },
+    {
+      "title": "Responsible AI",
+      "description": "Operational safety, fairness, transparency and human-centered safeguards across the AI lifecycle."
+    },
+    {
+      "title": "AI Ethics",
+      "description": "Normative inquiry into rights, equity, cultural pluralism and human-centered decision-making."
+    },
+    {
+      "title": "AI Policy Research",
+      "description": "Comparative, evidence-based analysis of national AI strategies and legislative readiness."
+    },
+    {
+      "title": "Global Regulatory Cooperation",
+      "description": "Cross-border alignment of AI policy approaches and regulatory dialogue."
+    },
+    {
+      "title": "Emerging AI Technologies",
+      "description": "Anticipating risks and opportunities from frontier technologies."
+    }
+  ],
+  "initiatives": [
+    {
+      "title": "Global AI Policy Dialogue Framework",
+      "description": "Cross-regional policy roundtables connecting members across Asia-Pacific, Europe, Africa, the Americas and MENA."
+    },
+    {
+      "title": "AI Literacy & Digital Safety Initiative",
+      "description": "Collaborative work on AI literacy, synthetic media awareness and safeguards against digital harms."
+    },
+    {
+      "title": "Comparative AI Governance Observatory",
+      "description": "Comparative tracking of national AI strategies, statutory instruments and soft-law frameworks."
+    }
+  ],
+  "publications": [],
+  "news_events": [],
+  "contributions": {
+    "label": "PARTICIPATE",
+    "title": "Contribute to Global AI Governance",
+    "body": "Join an international community working to advance responsible AI policy, research and cooperation.",
+    "tags": [
+      "Research Article",
+      "Policy Analysis",
+      "Expert Opinion",
+      "Thought Leadership"
+    ],
+    "button": "Submit a Contribution"
+  },
+  "join": {
+    "label": "PARTICIPATE",
+    "title": "Contribute to Global AI Governance",
+    "body": "Join an international community working to advance responsible AI policy, research and cooperation.",
+    "primary_button": "Apply for Membership",
+    "secondary_button": "Submit a Contribution"
+  },
+  "footer": {
+    "brand": "Atlas Global South AI Policy Coalition",
+    "tagline": "",
+    "description": "An international platform for AI policy, governance, research and cooperation.",
+    "parent_line": "Convened by Atlas AI Institute.",
+    "official_domain": "https://coalition.atlasai.institute",
+    "copyright": "© 2026 Atlas Global South AI Policy Coalition. Convened by Atlas AI Institute.",
+    "columns": [
+      {
+        "title": "Coalition",
+        "links": [
+          {
+            "label": "About",
+            "href": "/about/"
+          },
+          {
+            "label": "Mission & Vision",
+            "href": "/#mission-vision"
+          },
+          {
+            "label": "Governance",
+            "href": "/committee-rulebook/"
+          },
+          {
+            "label": "Leadership",
+            "href": "/leadership/"
+          }
+        ]
+      },
+      {
+        "title": "Registry",
+        "links": [
+          {
+            "label": "Global Members",
+            "href": "/global-members/"
+          },
+          {
+            "label": "Member Countries",
+            "href": "/member-countries/"
+          }
+        ]
+      },
+      {
+        "title": "Knowledge",
+        "links": [
+          {
+            "label": "Research Tracks",
+            "href": "/policy-research/"
+          },
+          {
+            "label": "Initiatives",
+            "href": "/initiatives/"
+          },
+          {
+            "label": "Publications",
+            "href": "/publications/"
+          },
+          {
+            "label": "News & Events",
+            "href": "/news-events/"
+          }
+        ]
+      }
+    ]
+  }
+}
